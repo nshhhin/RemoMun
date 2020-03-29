@@ -17,6 +17,7 @@
 - `features/xxxx(機能名)` 機能ごとでブランチを分ける
 
 ## Installing
+- Firebase
 
 ## Rest API
 
